@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/debug.dir/main.cpp.o CMakeFiles/debug.dir/olc6502.cpp.o CMakeFiles/debug.dir/Bus.cpp.o -o debug 

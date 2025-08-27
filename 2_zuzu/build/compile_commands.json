@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/goodboyzuzu/olcNES/2_zuzu/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/debug.dir/main.cpp.o -c /home/goodboyzuzu/olcNES/2_zuzu/main.cpp",
+  "file": "/home/goodboyzuzu/olcNES/2_zuzu/main.cpp",
+  "output": "CMakeFiles/debug.dir/main.cpp.o"
+},
+{
+  "directory": "/home/goodboyzuzu/olcNES/2_zuzu/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/debug.dir/olc6502.cpp.o -c /home/goodboyzuzu/olcNES/2_zuzu/olc6502.cpp",
+  "file": "/home/goodboyzuzu/olcNES/2_zuzu/olc6502.cpp",
+  "output": "CMakeFiles/debug.dir/olc6502.cpp.o"
+},
+{
+  "directory": "/home/goodboyzuzu/olcNES/2_zuzu/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/debug.dir/Bus.cpp.o -c /home/goodboyzuzu/olcNES/2_zuzu/Bus.cpp",
+  "file": "/home/goodboyzuzu/olcNES/2_zuzu/Bus.cpp",
+  "output": "CMakeFiles/debug.dir/Bus.cpp.o"
+}
+]

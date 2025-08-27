@@ -1,0 +1,3 @@
+/home/goodboyzuzu/olcNES/2_zuzu/build/CMakeFiles/debug.dir
+/home/goodboyzuzu/olcNES/2_zuzu/build/CMakeFiles/edit_cache.dir
+/home/goodboyzuzu/olcNES/2_zuzu/build/CMakeFiles/rebuild_cache.dir
